@@ -1,10 +1,10 @@
 import Container from "./Container"
 
-function Item({searchItem}){
+function Item({searchTerm}){
     return (
         <div>
-            <h2>{searchItem} Photos</h2>
-            <Container searchTerm={searchItem} />
+            <h2>{searchTerm} Photos</h2>
+            <Container searchTerm={searchTerm} />
         </div>
     )
 }

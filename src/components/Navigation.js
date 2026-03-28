@@ -7,7 +7,7 @@ function Navigation(){
                 <li><NavLink to="/island">Island</NavLink></li>
                 <li><NavLink to="/archtecture">Archtecture</NavLink></li>
                 <li><NavLink to="/coding">Coding</NavLink></li>
-                <li><NavLink to="/coffee<">Coffee</NavLink></li>
+                <li><NavLink to="/coffee">Coffee</NavLink></li>
             </ul>
         </nav>
     )
